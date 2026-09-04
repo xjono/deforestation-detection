@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project folders
+data/external_forest_test
+data/FashionMNIST
+data/forest-aerial-images
+models/
